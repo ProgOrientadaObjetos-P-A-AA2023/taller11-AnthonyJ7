@@ -2,7 +2,7 @@ package paquete01;
 
 /**
  *
- * @author santy
+ * @author ASUS
  */
 public abstract class Menu {
     

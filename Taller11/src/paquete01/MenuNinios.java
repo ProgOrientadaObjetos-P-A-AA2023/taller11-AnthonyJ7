@@ -4,7 +4,7 @@ package paquete01;
 
 /**
  *
- * @author santy
+ * @author ASUS
  */
 public class MenuNinios extends Menu {
     
